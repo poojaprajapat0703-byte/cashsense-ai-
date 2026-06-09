@@ -849,14 +849,24 @@ def render_actions(actions):
     """, unsafe_allow_html=True)
 
     # try every key the action agent might return
-    rec_list = (
-        actions if isinstance(actions, list) else
-        actions.get("recommendations") or
-        actions.get("actions") or
-        actions.get("cost_cuts") or
-        actions.get("suggestions") or
-        []
-    )
+    raw = actions if isinstance(actions, list) else (
+    actions.get("recommendations") or
+    actions.get("actions") or
+    actions.get("cost_cuts") or
+    actions.get("suggestions") or
+    ""
+)
+# If it's a single long string, split into 3 parts by numbered points
+    if isinstance(raw, str):
+       import re
+       parts = re.split(r'\n\s*\d+\.', raw)
+       parts = [p.strip() for p in parts if p.strip()]
+       rec_list = parts
+    elif isinstance(raw, list):
+       rec_list = raw
+    else:
+       rec_list = []
+
     if not rec_list:
         st.markdown('<div class="banner-info">No recommendations returned. Raw response below:</div>', unsafe_allow_html=True)
         st.json(actions)
