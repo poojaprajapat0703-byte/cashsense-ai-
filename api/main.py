@@ -5,6 +5,8 @@ from agents.analysis_agent import run_analysis_agent
 from agents.prediction_agent import run_prediction_agent
 from agents.alert_agent import run_alert_agent
 from agents.action_agent import run_action_agent
+from dotenv import load_dotenv
+load_dotenv()
 
 app = FastAPI(title="CashSense AI", version="1.0.0")
 

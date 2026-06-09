@@ -2,7 +2,8 @@ import os
 from groq import Groq
 from mcp.mongodb_connector import fetch_predictions, fetch_transactions
 
-client = Groq(api_key="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")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
+client = Groq(api_key=GROQ_API_KEY)
 
 def run_action_agent() -> dict:
     predictions = fetch_predictions()
