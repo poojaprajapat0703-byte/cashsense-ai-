@@ -6,7 +6,7 @@ import plotly.express as px
 import json
 import time
 
-API = "http://127.0.0.1:8001"
+API = "https://cashsense-ai.onrender.com"
 
 st.set_page_config(
     page_title="CashSense AI",
