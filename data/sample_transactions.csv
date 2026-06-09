@@ -1,0 +1,21 @@
+date,amount,category,description
+2024-01-05,50000,income,Client A payment
+2024-01-10,-12000,rent,Office rent January
+2024-01-15,-3500,utilities,Electricity bill
+2024-01-20,35000,income,Client B payment
+2024-01-25,-8000,salaries,Part time staff
+2024-02-05,50000,income,Client A payment
+2024-02-10,-12000,rent,Office rent February
+2024-02-15,-4000,utilities,Electricity bill
+2024-02-28,20000,income,Client C payment
+2024-03-05,50000,income,Client A payment
+2024-03-10,-12000,rent,Office rent March
+2024-03-20,-5000,utilities,Electricity bill
+2024-03-25,-8000,salaries,Part time staff
+2024-04-05,50000,income,Client A payment
+2024-04-10,-12000,rent,Office rent April
+2024-04-20,15000,income,Client B payment
+2024-04-30,-4500,utilities,Electricity bill
+2024-05-05,50000,income,Client A payment
+2024-05-10,-12000,rent,Office rent May
+2024-05-25,-9000,salaries,Part time staff

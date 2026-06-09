@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+langgraph
+langchain-google-genai
+pymongo
+pandas
+streamlit
+prophet
