@@ -1,0 +1,63 @@
+date,amount,category,description
+2024-01-02,280000,income,January Revenue - Dine-in & Takeaway
+2024-01-03,-85000,salaries,Chef & Staff Salaries - January
+2024-01-04,-32000,rent,Restaurant Rent - January
+2024-01-05,-18000,inventory,Vegetables & Meat Stock
+2024-01-06,-8500,utilities,Gas + Electricity Bill
+2024-01-08,-12000,inventory,Weekly Grocery Restock
+2024-01-10,-6000,marketing,Zomato & Swiggy Commission
+2024-01-12,-4500,utilities,Water + Internet
+2024-01-14,-9000,inventory,Weekly Grocery Restock
+2024-01-16,45000,income,Catering Order - Corporate Event
+2024-01-18,-12000,inventory,Weekend Stock Restock
+2024-01-20,-8000,marketing,Instagram Food Ads
+2024-01-22,-5000,utilities,Equipment Maintenance
+2024-01-25,32000,income,Catering - Wedding Function
+2024-01-28,-9000,inventory,End of Month Restock
+2024-01-30,-6000,marketing,Zomato & Swiggy Commission
+2024-02-01,240000,income,February Revenue - Dine-in & Takeaway
+2024-02-03,-85000,salaries,Chef & Staff Salaries - February
+2024-02-04,-32000,rent,Restaurant Rent - February
+2024-02-05,-22000,inventory,Vegetables & Meat Stock (prices up)
+2024-02-06,-9500,utilities,Gas + Electricity Bill
+2024-02-08,-14000,inventory,Weekly Grocery Restock
+2024-02-10,-8000,marketing,Zomato & Swiggy Commission
+2024-02-12,-4500,utilities,Water + Internet
+2024-02-14,28000,income,Valentines Day Special Orders
+2024-02-16,-15000,inventory,Weekly Grocery Restock
+2024-02-18,-10000,marketing,Valentine Campaign Ads
+2024-02-20,-6000,utilities,Equipment Repair - Oven
+2024-02-22,-14000,inventory,Weekend Restock
+2024-02-25,-8000,marketing,Zomato & Swiggy Commission
+2024-02-28,-5000,utilities,Pest Control & Cleaning
+2024-03-01,180000,income,March Revenue - Dine-in & Takeaway (slow season)
+2024-03-03,-85000,salaries,Chef & Staff Salaries - March
+2024-03-04,-35000,rent,Restaurant Rent - March (landlord increased)
+2024-03-05,-25000,inventory,Vegetables & Meat Stock
+2024-03-06,-10500,utilities,Gas + Electricity Bill
+2024-03-08,-15000,inventory,Weekly Grocery Restock
+2024-03-10,-9000,marketing,Zomato & Swiggy Commission
+2024-03-12,-4500,utilities,Water + Internet
+2024-03-14,-18000,inventory,Weekly Grocery Restock
+2024-03-16,-12000,marketing,Desperate Discount Campaign
+2024-03-18,-6500,utilities,Refrigerator Breakdown Repair
+2024-03-20,15000,income,Small Catering Order - Birthday Party
+2024-03-22,-14000,inventory,Weekend Restock
+2024-03-25,-9000,marketing,Zomato & Swiggy Commission
+2024-03-28,-5500,utilities,Deep Cleaning + Maintenance
+2024-03-30,-8000,salaries,Extra Staff for Weekend
+2024-04-01,120000,income,April Revenue - Very Slow Month
+2024-04-03,-85000,salaries,Chef & Staff Salaries - April
+2024-04-04,-35000,rent,Restaurant Rent - April
+2024-04-05,-28000,inventory,Vegetables & Meat Stock
+2024-04-06,-11000,utilities,Gas + Electricity Bill
+2024-04-08,-16000,inventory,Weekly Grocery Restock
+2024-04-10,-9500,marketing,Zomato & Swiggy Commission
+2024-04-12,-4500,utilities,Water + Internet
+2024-04-15,-18000,inventory,Weekly Grocery Restock
+2024-04-18,-8000,marketing,Panic Discount — 40% off campaign
+2024-04-20,-7000,utilities,AC Servicing Summer Prep
+2024-04-22,-15000,inventory,Weekend Restock
+2024-04-25,-9500,marketing,Zomato & Swiggy Commission
+2024-04-28,-6000,utilities,Staff Uniform Replacement
+2024-04-30,-5000,salaries,Overtime Pay
